@@ -1,2 +1,1 @@
-# Personal_Space
-Personal_Space
+# 主に個別的な情報の保存となります。 #
