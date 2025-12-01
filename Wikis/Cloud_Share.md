@@ -13,7 +13,7 @@ Download：かなり遅いスピード、ダウンロードを完了できるま
 
 ---
 
-[美雲](https://www.weiyun.com/)
+[微雲](https://www.weiyun.com/)
 
 5GB
 
